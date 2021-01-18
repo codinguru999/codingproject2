@@ -1,0 +1,33 @@
+ 
+
+Output for Program 1
+
+
+Enter the number of elements in the array(<10)6
+Enter the array3
+6
+4
+8
+3
+9
+leaders in the arrray9
+
+ 
+
+
+Output for Program 2
+
+
+enter the mumer of rows:6
+*                      *
+* *                  * *
+* * *              * * *
+* * * *          * * * *
+* * * * *      * * * * *
+* * * * * *  * * * * * *
+* * * * * *  * * * * * *
+* * * * *      * * * * *
+* * * *          * * * *
+* * *              * * *
+* *                  * *
+*                      *
